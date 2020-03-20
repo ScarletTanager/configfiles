@@ -1,0 +1,45 @@
+authors:
+    dl: Dan Lavine
+    jb: Jonathan Berkhahn
+    mf: Michael Fraenkel
+    sc: Sandy Cash
+    sr: Swetha Repakula
+    sykesm: Matthew Sykes
+    gc: Greg Cobb
+    msg: Mark St. Godard
+    as: Aakash Shah
+    ep: Eric Promislow
+    nk: Nino Kodabande 
+    th: Tiffany Harris
+    dm: Demetrios Marinos; dmarinos
+    lhc: Sandy Cash; lhcash
+    ap: Alex Parker
+    am: Apoorv Mahajan; amahajan
+    em: Eric Millin
+    sw: Steven Whitehead
+    rc: Raven Creighton; racreigh
+    kv: Keshav Velhal
+    dc: Danny Cao; dcao
+    mf: Miles Fink
+    mb: Michael Borsellino
+email:
+    domain: us.ibm.com
+email_addresses:
+    dl: dlavine@us.ibm.com
+    jb: jaberkha@us.ibm.com
+    mf: fraenkel@us.ibm.com
+    sc: scarlet.tanager@gmail.com
+    sr: srepaku@us.ibm.com
+    sykesm: matthew.sykes@gmail.com
+    gc: gerg@pivotal.io
+    msg: stgodard@ca.ibm.com
+    as: ashah@pivotal.io
+    ep: eric.promislow@gmail.com
+    nk: nkodabande@suse.com
+    th: tiffany.harris@ibm.com
+    ap: alexander.parker@ibm.com
+    em: eric.t.millin@ibm.com
+    sw: steven.whitehead@ibm.com
+    kv: keshav.velhal@ibm.com
+    mf: mfink@ibm.com
+    mb: michaelborsellino@ibm.com

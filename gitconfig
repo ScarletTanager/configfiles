@@ -1,0 +1,36 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+	user = Sandy Cash
+	email = lhcash@us.ibm.com
+[user]
+	name = Sandy Cash
+	email = lhcash@us.ibm.com
+[alias]
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	llog = log --date=local
+	flog = log --pretty=fuller --decorate
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	lol = log --graph --decorate --oneline
+	lola = log --graph --decorate --oneline --all
+	ci = duet-commit
+	co = checkout
+
+[color]
+    ui = true
+
+[color "diff"]
+    frag = magenta
+    func = cyan
+    meta = blue
+    new = green
+    old = red
+
+[push]
+	default = simple
+	recurseSubmodules = on-demand
+
+[url "git@github.com:"]
+	pushInsteadOf = https://github.com/ 
+[url "git@github.ibm.com:"]
+	insteadOf = https://github.ibm.com/
